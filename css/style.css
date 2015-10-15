@@ -1,0 +1,51 @@
+.cancha{
+	width: intrinsic;
+	height: intrinsic;
+	background: #009933;
+	margin: auto;
+	border: 1px solid #009933;
+	position: relative;
+}
+.border{
+	width: 1000px;
+	height: 600px;
+	border: 2px solid white;
+	margin: 10px;
+	position: relative;
+}
+.medida{
+	width: 150px;
+	height: 300px;
+	border: 2px solid white;
+	margin-top: 15%;
+	display: inline-block;
+}
+.forma{
+	float: left;
+}
+.forma2{
+	float: right;
+}
+.centro{
+	width: 150px;
+	height: 150px;
+	border: 2px solid white;
+	margin: 25%;
+	display: inline-block;
+	border-radius: 100%;
+}
+.bola1{
+	position: absolute;
+	top: 26%;
+	left: 22%;
+}
+.bola2{
+	position: absolute;
+	top: 20%;
+	left: 45%;
+}
+.bola3{
+	position: absolute;
+	top: 60%;
+	right: 22%;
+}
